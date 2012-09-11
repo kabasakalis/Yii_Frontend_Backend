@@ -7,7 +7,7 @@
 
 A starter project template for Yii implementing frontend/backend file structure
 built with Html5 Boilerplate,Bootstrap and Semantic Grid.
-### [See a live demo](http://wdeio-kal.gr/app/)
+
 
 ## Quick start
 Clone the git repo - `git clone git://github.com/drumaddict/Yii_Frontend_Backend.git` - or [download it](https://github.com/drumaddict/Yii_Frontend_Backend/zipball/master)  
